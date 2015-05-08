@@ -396,7 +396,7 @@ sub fetch_object_ids_by_attribute
 
 =head2 set_condition
 
-Implements conditgions for certain object classes. For others, simply
+Implements conditions for certain object classes. For others, simply
 sets an attribute in SPSID.
 
 =cut
